@@ -14,7 +14,6 @@ pytz==2021.1
 requests==2.26.0
 six==1.16.0
 sqlparse==0.4.1
-TA-Lib==0.4.21
 twelvedata==1.2.1
 urllib3==1.26.6
 websocket==0.2.1
